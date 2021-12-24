@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Problem in workstation 664",
+      "attention": true,
+      "tech": "Prem DURAIRAJ",
+      "date": "2021-12-17T13:11:20.653Z"
+    },
+    {
+      "message": "Problem mobile statuion 664",
+      "tech": "Jereme Smith",
+      "attention": true,
+      "date": "2021-12-17T11:37:08.391Z",
+      "id": 2
+    },
+    {
+      "message": "Problem in tower statuion 664",
+      "tech": "Will Smith",
+      "attention": false,
+      "date": "2021-12-17T11:37:23.111Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 2,
+      "firstName": "Will",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Jereme",
+      "lastName": "Smith"
+    }
+  ]
+}
